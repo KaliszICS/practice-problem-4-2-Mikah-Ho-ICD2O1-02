@@ -1,5 +1,5 @@
 /**
- * File: While loops
+ * File: For loops
  * Author: Mikah Ho
  * Date Created: Apr 9, 2026
  * Date Last Modified: Apr 9, 2026
